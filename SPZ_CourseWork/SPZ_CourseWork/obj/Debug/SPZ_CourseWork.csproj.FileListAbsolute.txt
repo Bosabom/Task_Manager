@@ -1,0 +1,10 @@
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\bin\Debug\SPZ_CourseWork.exe.config
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\bin\Debug\SPZ_CourseWork.exe
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\bin\Debug\SPZ_CourseWork.pdb
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.csprojAssemblyReference.cache
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.Form1.resources
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.Properties.Resources.resources
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.csproj.GenerateResource.cache
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.csproj.CoreCompileInputs.cache
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.exe
+D:\Apps(c#)\SPZ_CourseWork\SPZ_CourseWork\obj\Debug\SPZ_CourseWork.pdb
